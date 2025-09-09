@@ -1,4 +1,4 @@
-# niri-fuzzel-switcher
+# niri-wofi-switcher
 An adapted simple bash script to use wofi to quickly switch to a specific window in niri. props to the original writer, i just replaced the command to wofi and uploading it here to credit them ig.
 
 Install Requirements:
